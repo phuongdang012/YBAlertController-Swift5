@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'YBAlertController-Swift5'
+  s.name             = 'YBAlertController'
   s.version          = '0.1.0'
   s.summary          = 'A short description of YBAlertController-Swift5.'
 
