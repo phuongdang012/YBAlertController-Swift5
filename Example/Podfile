@@ -1,0 +1,6 @@
+use_frameworks!
+target 'YBAlertController-Swift5_Tests' do
+  pod 'YBAlertController-Swift5', :path => '../'
+  
+  
+end
