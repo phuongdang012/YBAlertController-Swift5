@@ -1,8 +1,10 @@
 //
 //  YBAlertController.swift
 //  YBAlertController
+//  Version 0.1.2
 //
 //  Created by Yuta on 2016/01/12.
+//  Modified by Phuong Dang Tran Thanh on 2020/10/06
 //  Copyright © 2016年 Yabuzaki Yuta. All rights reserved.
 //
 
