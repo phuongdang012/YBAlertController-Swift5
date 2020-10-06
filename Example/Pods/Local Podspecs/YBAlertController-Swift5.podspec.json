@@ -1,0 +1,22 @@
+{
+  "name": "YBAlertController-Swift5",
+  "version": "0.1.0",
+  "summary": "A short description of YBAlertController-Swift5.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Trần Thành Phương Đăng/YBAlertController-Swift5",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Trần Thành Phương Đăng": "dang.outsource@mobivi.vn"
+  },
+  "source": {
+    "git": "https://github.com/Trần Thành Phương Đăng/YBAlertController-Swift5.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YBAlertController-Swift5/Classes/**/*"
+}

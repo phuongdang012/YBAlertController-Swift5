@@ -1,0 +1,16 @@
+PODS:
+  - YBAlertController-Swift5 (0.1.0)
+
+DEPENDENCIES:
+  - YBAlertController-Swift5 (from `../`)
+
+EXTERNAL SOURCES:
+  YBAlertController-Swift5:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YBAlertController-Swift5: 929da308f1504910219e974e42a9f29581f81388
+
+PODFILE CHECKSUM: ddfca03a64828ce2445e851dbf7726a5ec37c654
+
+COCOAPODS: 1.9.3

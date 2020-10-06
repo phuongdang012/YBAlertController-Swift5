@@ -1,0 +1,6 @@
+framework module YBAlertController_Swift5 {
+  umbrella header "YBAlertController-Swift5-umbrella.h"
+
+  export *
+  module * { export * }
+}

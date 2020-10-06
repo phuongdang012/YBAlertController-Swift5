@@ -1,0 +1,6 @@
+framework module Pods_YBAlertController_Swift5_Tests {
+  umbrella header "Pods-YBAlertController-Swift5_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
